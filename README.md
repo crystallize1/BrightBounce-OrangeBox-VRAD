@@ -6,7 +6,7 @@ Produce brighter indirect lighting (bounced lighting) than stock OrangeBox VRAD
 How to enable the algo:
 -hl1bounce -skipchildren (can be used separately)
 
-How to make the effect stronger:
+How to make the effect stronger:  
 -uniform
 
 How to make the effect weaker:
