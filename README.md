@@ -30,3 +30,14 @@ Misc:
 -ForceAttn  
 -DebugClouds  
 -SimpleChildren
+
+Default game:
+![e7e8a8452e8e8d6d8c939730673c25ff](https://github.com/user-attachments/assets/70a17d48-a8ed-4424-985c-14025398402b)
+
+Start to enable parameters:
+![7fe6926858812574160a6d8e79365c7b](https://github.com/user-attachments/assets/184fdba3-6d4f-4527-aa9b-31c6ba50562f)
+![6064d1b5a63581476ba5543675bb525f](https://github.com/user-attachments/assets/fc2a3b94-54de-4ee6-8d97-641d0bd6e9de)
+![fac51803c3a0ce9577a9ace96b1c0383](https://github.com/user-attachments/assets/25c5c0a4-de9e-4f5f-9baa-cf63a7004f00)
+
+
+
